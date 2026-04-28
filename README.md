@@ -1,2 +1,9 @@
-# number-guessing-helper
-A simple number guessing project
+# Number Guessing
+
+A simple number guessing project.
+\n
+## Getting Started
+
+```bash
+python number.py
+```
